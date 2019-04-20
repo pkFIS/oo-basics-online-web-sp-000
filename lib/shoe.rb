@@ -9,7 +9,7 @@ class Shoe
 
   def cobble(shoe)
     shoe = Shoe.new("Your shoe is as good as new!")
-    puts "Your shoe is as good as new!"
+    #puts "Your shoe is as good as new!"
   end
 
 end
