@@ -8,7 +8,6 @@ class Shoe
   end
 
   def cobble
-    #shoe = Shoe.new("Your shoe is as good as new!")
     puts "Your shoe is as good as new!"
     @condition = "new"
 
